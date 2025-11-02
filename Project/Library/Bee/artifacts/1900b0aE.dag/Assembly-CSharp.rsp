@@ -360,6 +360,7 @@
 "Assets/Scripts/IInteractable.cs"
 "Assets/Scripts/InterfaceController.cs"
 "Assets/Scripts/MainMenu.cs"
+"Assets/Scripts/PauseMenu.cs"
 "Assets/Scripts/Player/Inventory/InventoryController.cs"
 "Assets/Scripts/Player/Inventory/InventorySystem.cs"
 "Assets/Scripts/Player/Inventory/Item.cs"
