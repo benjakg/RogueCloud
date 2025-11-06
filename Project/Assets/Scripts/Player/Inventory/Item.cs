@@ -9,6 +9,7 @@ public class Item : MonoBehaviour, IInteractable
 
     public void Interact(LogicaPersonaje1 player)
     {
-        player.AddToInventory(item: this);
+        // Sistema de inventario eliminado - este método está vacío por ahora
+        // Puedes implementar otra funcionalidad aquí si es necesario
     }
 }

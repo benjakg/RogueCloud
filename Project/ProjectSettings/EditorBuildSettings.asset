@@ -8,5 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
   - enabled: 1
+    path: Assets/Scenes/LevelOne.unity
+  - enabled: 1
     path: Assets/Scenes/Juego.unity
   m_configObjects: {}

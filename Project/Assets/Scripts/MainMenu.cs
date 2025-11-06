@@ -8,7 +8,7 @@ using UnityEditor;
 public class MainMenu : MonoBehaviour
 {
     [Tooltip("Nombre de la escena del nivel que se cargará al presionar Jugar")]
-    public string levelToLoad = "Juego"; // Nombre de la escena del juego
+    public string levelToLoad = "LevelOne"; // Nombre de la escena del juego
 
     // Método para el botón Jugar
     public void PlayGame()
